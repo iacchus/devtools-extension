@@ -1,0 +1,11 @@
+{
+    "manifest_version" : 2,
+
+    "name" : "Iacchus Dev Tools",
+    "version" : "0.1",
+
+    "description" : "A DevTools Extending Experiment",
+    "author" : "Iacchus Mercurius",
+
+    "devtools_page" : "html/devtools.html"
+}
